@@ -1,0 +1,8 @@
+## Interface: 16001, 11601
+## Title: FpsPing
+## Notes: Small movable box showing FPS and latency (ms)
+## Author: tigertom00
+## Version: 1.0.0
+## SavedVariables: FpsPingDB
+
+FpsPing.lua
